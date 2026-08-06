@@ -89,25 +89,7 @@ The destination table was automatically created based on the DataFrame schema.
 
 ---
 
-## Project Structure
 
-```
-Sales_ETL_Project/
-
-│── data/
-│     └── sales_data.csv
-
-│── notebooks/
-│     └── ETL.ipynb
-
-│── screenshots/
-
-│── README.md
-
-│── requirements.txt
-```
-
----
 
 ## Output
 
