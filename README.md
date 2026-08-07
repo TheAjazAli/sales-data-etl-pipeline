@@ -40,7 +40,7 @@ The objective of this project is to showcase fundamental Data Engineering concep
 - SQLAlchemy
 - Power BI
 - Git
-- Jupyter Notebook / VS Code
+- VS Code
 
 ---
 
